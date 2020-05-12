@@ -1,7 +1,0 @@
-{
-  "name": "SAH",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react"
-}
